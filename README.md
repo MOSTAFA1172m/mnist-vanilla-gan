@@ -57,7 +57,8 @@ Ensure that you have the following installed:
 - After each training phase, you can check the generated images to see the improvement.
 
 Example of generated images:
-![Generated Image](generated_image_epoch_1000.png)
+![Generated Image](![image](https://github.com/user-attachments/assets/56b01769-9d4e-41a5-aed9-d574bea4ca87)
+)
 
 ---
 
