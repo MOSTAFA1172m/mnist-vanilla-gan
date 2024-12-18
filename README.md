@@ -56,9 +56,8 @@ Ensure that you have the following installed:
 - During training, the model generates fake images and saves them periodically.
 - After each training phase, you can check the generated images to see the improvement.
 
-Example of generated images:
-![Generated Image](![image](https://github.com/user-attachments/assets/56b01769-9d4e-41a5-aed9-d574bea4ca87)
-)
+Example of generated images after epoch 100:
+![Generated Image](!(https://github.com/user-attachments/assets/56b01769-9d4e-41a5-aed9-d574bea4ca87))
 
 ---
 
