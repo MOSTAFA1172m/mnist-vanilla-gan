@@ -57,7 +57,7 @@ Ensure that you have the following installed:
 - After each training phase, you can check the generated images to see the improvement.
 
 Example of generated images after epoch 100:
-![Generated Image](!(generated image.png))
+![Generated Image](![(generated image.png)]
 
 ---
 
