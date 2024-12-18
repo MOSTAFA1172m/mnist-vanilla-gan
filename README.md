@@ -23,8 +23,8 @@ Ensure that you have the following installed:
 1. **Clone the repository**:
    Clone the project to your local machine:
    ```bash
-   git clone https://github.com/your-username/Vanilla-GAN-MNIST-PyTorch.git
-   cd Vanilla-GAN-MNIST-PyTorch
+   git clone https://github.com/MOSTAFA1172m/mnist-vanilla-gan.git
+   
    ```
 
 2. **Install dependencies**:
@@ -40,7 +40,7 @@ Ensure that you have the following installed:
    ```
 
 4. **Open and run the notebook**:
-   Open the `Vanilla_GAN_MNIST.ipynb` file and run each cell step by step.
+   Open the `mnist_gan.ipynb` file and run each cell step by step.
 
 ---
 
