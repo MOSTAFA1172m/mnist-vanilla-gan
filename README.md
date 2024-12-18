@@ -57,7 +57,7 @@ Ensure that you have the following installed:
 - After each training phase, you can check the generated images to see the improvement.
 
 Example of generated images after epoch 100:
-![Generated Image](https://github.com/MOSTAFA1172m/mnist-vanilla-gan/blob/main/generated%20image.png)
+![Generated Image](https://github.com/MOSTAFA1172m/mnist-vanilla-gan/blob/main/assets/generated%20image.png?raw=true)
 
 ---
 
